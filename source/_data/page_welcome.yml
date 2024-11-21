@@ -1,0 +1,30 @@
+intro:
+  main_title: "Welcome"
+  content_1: "<p>Siamo ormai alla sesta edizione del <strong>laravel</strong>day, la prima conferenza italiana sul famoso <strong>framework PHP Laravel</strong>. In questi anni abbiamo messo tutto il nostro impegno per offrire un ventaglio di argomenti capaci di esplorare Laravel e il suo ecosistema a 360°.</p><p>Tra le tematiche delle edizioni passate ricordiamo:</p><p><ul><li>* Corretto utilizzo del framework.</li><li>* Best practice sulla programmazione.</li><li>* Test driven development.</li><li>* Package development.</li><li>* CI / CD.</li><li>* Case study di aziende che utilizzano Laravel.</li></ul></p><p>Quest'anno, <strong>da Verona e online</strong>, rinnoviamo il nostro impegno nel proporti una giornata ricca di curiosità che riguardano tanto il framework quanto il suo uso a livello professionale.</p><p>Speaker con esperienza e talento condivideranno con te le loro giornate, le loro esperienze e i trucchi del mestiere e avrai occasione di confrontarti con loro durante i momenti di networking.</p><h4><strong>laravel</strong>day: non solo talk</h4></p>"
+  content_2: "<p>Pensiamo che al confronto serva spazio. Ecco perché, per permetterti di amalgamare più profondamente le tue idee ed esperienze con developer da tutta Italia, ti mettiamo a disposizione sia spazi fisici dell'Hotel San Marco di Verona che room virtuali.<br>Il laravelday è anche questo: un momento di scambio costruttivo che fa circolare idee ed opinioni, nell'ottica di una crescita comune che possa arricchire tanto la singola persona quanto la community.</p><p>Nella pausa tra un talk e l'altro, avrai la possibilità di confrontarti con membri della community di Laravel su argomenti tecnici, trovare un annuncio di lavoro e, perché no, semplicemente scambiare quattro chiacchiere tra nerd di fronte ad una birra o un caffè!</p>"
+# this is the global "read more" label
+readmore_label: "Leggi tutto"
+# these are the title and descriptions of the 6 blocks
+info_about:
+  title: "About"
+  content: "GrUSP ed il team dietro al laravelday"
+info_coc:
+  title: "COC"
+  content: "Regole di comportamento"
+info_safety:
+  title: "Salute pubblica"
+  content: "La salute di tutti è una nostra priorità"
+info_scholarships:
+  title: "Scholarship"
+  content: "Come richiedere un biglietto gratuito"
+info_cfp:
+  title: "CFP"
+  content: "Presenta un talk"
+info_venue:
+  title: "Dove"
+  content: "Informazioni utili"
+info_ticket:
+  title: "Biglietti"
+  content: "I biglietti sono disponibili su Tito"
+  # the tickets link is the only one that does not use the "global" label
+  readmore_label: "ACQUISTA"

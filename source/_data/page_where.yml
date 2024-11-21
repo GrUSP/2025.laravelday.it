@@ -1,0 +1,31 @@
+header:
+  title_pre: "Ci vediamo a"
+intro:
+  main_title: "Conferenza ibrida: in presenza e online"
+  content_1: "La conferenza si svolge di persona a Verona ed è anche possibile partecipare da remoto."
+  content_2: ""
+city_info:
+  title: "Come funziona"
+  subtitle_1: "La venue fisica"
+  description_1: "La storica sede delle conferenze GrUSP, l'Hotel San Marco a Verona. Comodo da raggiungere in auto o (meglio!) con i mezzi pubblici."
+  subtitle_2: "La venue virtuale"
+  description_2: "Sarà anche possibile partecipare solo da remoto, acquistando il relativo biglietto. L'evento online si svolge su una piattaforma che permette di interagire con speaker e pubblico, e visitare gli stand degli sponsor."
+map:
+  title: "Dove siamo"
+  map_url: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2799.4793358997117!2d10.969744115556647!3d45.43999607910055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4781e1e30a8be6af%3A0x8091b108e1d130c6!2sHotel%20San%20Marco%20Fitness%20Pool%20%26%20SPA!5e0!3m2!1sen!2sit!4v1587388989438!5m2!1sen!2sit"
+  video_caption: ""
+hotels:
+  title: "La venue"
+  intro: "L'hotel offre tariffe convenzionate per chi partecipa alla conferenza. Contatta direttamente l'hotel per maggiori informazioni e per prenotare."
+  agreements:
+    hotel_1:
+      name: "Hotel San Marco"
+      address: "Via Baldassarre Longhena, 42, 37138 Verona VR"
+      website: "https://www.sanmarco.vr.it/"
+      maps_url: "https://g.page/hotelsanmarcoverona"
+      phone: ""
+      phone_label: ""
+      email: "sanmarco@sanmarco.vr.it"
+email_aria_label: "hotel email"
+phone_aria_label: "hotel phone"
+website_aria_label: "hotel phone"

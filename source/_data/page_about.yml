@@ -1,0 +1,64 @@
+intro:
+  main_title: "About"
+  content_1:
+    "<p>Il <strong>laravelday</strong> è orgogliosamente organizzato da <strong>GrUSP</strong>.</p>
+     <p>GrUSP è una community fondata nel 2003 come PHP User Group, che è diventata il punto di riferimento in Italia per le buone pratiche in tutti i campi dello sviluppo web.</p>
+     <p>Da allora abbiamo organizzato moltissime conferenze, perseguendo sempre l'obiettivo di creare opportunità per le persone di incontrarsi, imparare, condividere e crescere insieme.</p>"
+  content_2:
+    "<p><strong>GrUSP</strong> è un'organizzazione no-profit il cui obiettivo è migliorare l'ecosistema italiano di sviluppo web.<br>
+    Organizziamo eventi e workshop di alta qualità per developer, e promuoviamo la creazione di User Group locali (PUG), aiutandoli nelle loro attività.</p>
+    <p><h4>La diversità e l'inclusione sono sempre state al centro delle nostre attività.</h4></p>
+    <p>Applichiamo un codice di condotta da molti anni e abbiamo programmi di borse di studio (scholarships) per ciascuna delle nostre conferenze.</p>"
+more:
+  title: "laravelday"
+  content_1:
+    "<p>Quest'anno torniamo nuovamente <strong>in presenza dall'hotel San Marco di Verona e online</strong> per vivere una giornata dedicata a Laravel. Ti proponiamo un laravelday ricco di curiosità che riguardano tanto il framework quanto il suo uso a livello professionale.</p><p>Speaker con esperienza e talento condivideranno con te le loro giornate, le loro esperienze e i trucchi del mestiere e avrai occasione di confrontarti con loro durante i momenti di networking.</p>"
+  content_2:
+past_edition:
+  title: "Guarda il laravelday pre-party 2022, presto online il 2023!"
+  video_url: "https://www.youtube.com/embed/qy_0rbl9xng"
+  video_caption: "Guarda il pre-party dove presentiamo l'evento del 2022"
+team:
+  title: "Il team"
+  intro: ""
+  members:
+    member_1:
+      name: "Matteo Beccati"
+      role: "GrUSP Founder & Board Member"
+      pic_filename: "matteo_yellow.jpg"
+    member_11:
+      name: "Cristina Chesini"
+      role: "Training Manager"
+      pic_filename: "cristina_yellow.jpg"
+    member_3:
+      name: "Cesare D'Amico"
+      role: "GrUSP founder & Board Member"
+      pic_filename: "cesare_yellow.jpg"
+    member_4:
+      name: "Giovanna Ferrari"
+      role: "Sponsors Manager"
+      pic_filename: "giovanna_yellow.jpg"
+    member_5:
+      name: "Giorgio Fochesato"
+      role: "Community manager"
+      pic_filename: "giorgio_yellow.jpg"
+    member_6:
+      name: "Francesco Fullone"
+      role: "Trouble maker"
+      pic_filename: "fullo_yellow.jpg"
+    member_7:
+      name: "Lara Lombardi"
+      role: "Marketing manager"
+      pic_filename: "lara_yellow.jpg"
+    member_8:
+      name: "Daniel Londero"
+      role: "GrUSP Board Member"
+      pic_filename: "daniel_yellow.jpg"
+    member_9:
+      name: "Francesco Mancin"
+      role: "Regia e Video"
+      pic_filename: "francesco_yellow.jpg"
+    member_10:
+      name: "Giulia Tosato"
+      role: "Event Manager"
+      pic_filename: "giulia_yellow.jpg"
