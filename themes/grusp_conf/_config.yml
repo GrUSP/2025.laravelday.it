@@ -8,7 +8,7 @@ menu:
   welcome: welcome
   # talks_speakers: talk e speaker
   # scommentare per generare pagina
-  schedule: schedule
+  # schedule: schedule
   # menu item for workshop
   # workshop: workshop
   sponsor: sponsor
@@ -22,11 +22,11 @@ workshop_submenu:
 welcome_submenu:
   about: about
   coc: codice di condotta
-  safety: salute pubblica
+  # safety: salute pubblica
   scholarships: borse di studio
   where: dove e come
   # delete this row to take out of the menu
-  cfp: call for paper
+  # cfp: call for paper
 
 # stylesheets loaded in the <head>
 stylesheets:

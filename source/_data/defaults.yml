@@ -23,22 +23,22 @@ conference:
   contact_email: "laravelday@grusp.org"
   # these are for the hero section
   title_pre: ""
-  title: "laravelday 2023"
-  city: "Verona, hotel San Marco"
-  date: 2023-11-09T09:30+01:00
+  title: "laravelday 2025"
+  city: "Verona, Hotel San Marco"
+  date: ""
   # Use the next field to override the date in the hero
-  hero_date_text:
+  hero_date_text: "Autunno 2025"
   countdown_visible: false
   countdown_days: "giorni"
   countdown_hours: "ore"
   countdown_minutes: "minuti"
   countdown_seconds: "secondi"
-  ticket_button_visible: true
+  ticket_button_visible: false
   hero_buy_tickets_label: "Assicurati un posto"
   # image credits (l'esempio è per la hero del CSS Day!)
   # hero_img_credits: "Image by Gianni Careddu - Own work, <a href='https://commons.wikimedia.org/w/index.php?curid=74821344 target='_blank' rel='noopener noreferrer'>CC BY-SA 4.0</a>"
   # "update" component. set the first parameter to true to make it appear in home page, false means hidden
-  update_visible: true
+  update_visible: false
   update_is_warning: false
   update_warning_header: ""
   update_title: "Pre-party!"
@@ -63,10 +63,10 @@ conference:
   # "general information" ("what is it?") component
   geninfo_visible: true
   geninfo_title: "Che cos'è?"
-  geninfo_description: "<p>Il <strong>laravel</strong>day è la prima conferenza tutta italiana, nata dalla community per la community, che porta case study reali e best practice raccontati da persone appassionate e professioniste che usano Laravel.</p>
-  <p><strong>Giovedì 9 Novembre sarà un'intera giornata dedicata al framework PHP</strong> e al suo ecosistema di package e servizi utilizzati da migliaia di developer in tutto il mondo. Che tu abbia esperienza o sia neofita di Laravel, ti assicuriamo che i nostri talk sapranno incuriosirti!</p>
-  <p>Potrai seguire laravelday 2023 sia <strong>online</strong> che <strong>in presenza a Verona</strong>.</p>
-  <p>Il giorno dopo la conferenza (Venerdì 10 Novembre), nella stessa location, ci sarà <a href='https://vueday.it'>vueday</a>, la conferenza GrUSP dedicata a <b>Vue.js.</b> Con il biglietto per laravelday puoi avere uno <b>sconto sul biglietto per vueday!</b></p>
+  geninfo_description: "<p><b>laravelday</b> è la prima conferenza interamente italiana, nata dal cuore pulsante della community per chi, come te, vuole immergersi nel mondo di Laravel. Un evento unico, dove passione e professionalità si intrecciano per offrire case study reali e best practice raccontate da esperti che vivono e respirano questo framework ogni giorno.</p>
+  <p>Sarà una giornata imperdibile: un’immersione totale nell’universo di Laravel, tra il framework PHP più amato e il suo ricco ecosistema di package e servizi, utilizzati da migliaia di sviluppatori in tutto il mondo. Che tu sia un veterano del codice o stia muovendo i primi passi, i nostri talk sapranno ispirarti, sorprenderti e lasciarti con nuove idee e strumenti.</p>
+  <p>Potrai seguire laravelday 2025 sia <strong>online</strong> che <strong>in presenza a Verona</strong>.</p>
+  <p>Partecipa a LaravelDay 2024 come preferisci: online o dal vivo nella splendida cornice di Verona. Un’occasione per crescere, connettersi e condividere la passione per Laravel.</p>
   <p>Scopri tutti i dettagli dell'evento!</p>"
   geninfo_about_label: "About"
   geninfo_coc_label: "Codice di condotta"
@@ -98,7 +98,7 @@ conference:
   newsletter_legal_url: "https://mailchimp.com/legal/"
   newsletter_legal_label: "Informazioni riguardo la privacy policy di Mailchimp"
   # "speakers" component. set the first parameter to true to make it appear in home page, false means hidden
-  speakers_visible: true
+  speakers_visible: false
   speakers_title: "speaker"
   mcs_title: "MC"
   speaker_count_text:
@@ -122,7 +122,7 @@ conference:
   workshops_readmore_label: "Continua a leggere"
   workshops_register_label: "Registrati"
   # Media section in home page. set the first parameter to true to make it appear in home page, false means hidden
-  media_visible: false
+  media_visible: true
   media_pic_1: ""
   media_pic_2: ""
   media_pic_3: ""
@@ -131,11 +131,11 @@ conference:
   media_video_playlist: true
   # if `media_video_is_youtube` is `true`, the relevant playlist will be embedded via "media_video_playlist". If it is `false`, the relevant Vimeo channel will be embedded via "media_vimeo_channel"
   media_video_is_youtube: true
-  youtube_base_url: "https://www.youtube.com/embed/"
+  youtube_base_url: "https://www.youtube.com/embed/videoseries?list="
   # vimeo_base_url: "https://vimeo.com/channels/"
   # vimeo_url_suffix: "/embed"
   #   (embed YouTube playlist: prendere l'ID della lista dall'URL, la parte dopo '&list=', e metterla qui sotto)
-  youtube_playlist_id: "qy_0rbl9xng"
+  youtube_playlist_id: "PLWK9j6ps_unkolXsZjbWBW0q-nNH8owrf"
   #   (embed Vimeo showcase: prendere l'ID dello showcase e metterla qui sotto)
   # vimeo_showcase_id: "laravelday"
   # Location section in home page. set the first parameter to true to make it appear in home page, false means hidden
@@ -148,7 +148,7 @@ conference:
   # image credits (l'esempio è per la hero del CSS Day!)
   venue_img_credits: ""
   # Sponsors section in home page. set the first parameter to true to make it appear in home page, false means hidden
-  sponsors_visible: true
+  sponsors_visible: false
   sponsor_title_home: "Sponsor"
   # this is for the Community partners section in home page
   community_partners: true
@@ -175,6 +175,8 @@ conference:
     2020: "2020"
     2021: "2021"
     2022: "2022"
+    2023: "2023"
+    2024: "2024"
   past_editions_videos_pre: "Tutti i video delle passate edizioni sono disponibili su "
   past_editions_videos_vimeo_label: "Vimeo"
   past_editions_videos_mid: " e "
@@ -200,4 +202,4 @@ conference:
     tag_manager_id: "GTM-KJHB748"
   # Tito tickets
   tito:
-    event: grusp/laravelday-2024
+    event: grusp/laravelday-2025
