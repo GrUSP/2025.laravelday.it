@@ -6,6 +6,7 @@ language: "it"
 # main menu navigation
 menu:
   welcome: welcome
+  welcome/cfp.html: proponi un talk
   # talks_speakers: talk e speaker
   # scommentare per generare pagina
   # schedule: schedule
@@ -26,7 +27,7 @@ welcome_submenu:
   scholarships: borse di studio
   where: dove e come
   # delete this row to take out of the menu
-  # cfp: call for paper
+  cfp: call for paper
 
 # stylesheets loaded in the <head>
 stylesheets:

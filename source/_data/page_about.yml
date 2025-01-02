@@ -1,26 +1,43 @@
 intro:
   main_title: "About"
   content_1:
-    "<p>Il <strong>laravelday</strong> è orgogliosamente organizzato da <strong>GrUSP</strong>.</p>
-     <p>GrUSP è una community fondata nel 2003 come PHP User Group, che è diventata il punto di riferimento in Italia per le buone pratiche in tutti i campi dello sviluppo web.</p>
-     <p>Da allora abbiamo organizzato moltissime conferenze, perseguendo sempre l'obiettivo di creare opportunità per le persone di incontrarsi, imparare, condividere e crescere insieme.</p>"
+    "Il laravelday è orgogliosamente organizzato da <a href='https://www.grusp.org/' target='_blank'>GrUSP</a>.
+     GrUSP è una community fondata nel 2003 come PHP User Group, che è diventata il punto di riferimento in Italia per le buone pratiche in tutti i campi dello sviluppo web.<br>
+     Da allora abbiamo organizzato moltissime conferenze, perseguendo sempre l'obiettivo di creare opportunità per le persone di incontrarsi, imparare, condividere e crescere insieme."
   content_2:
-    "<p><strong>GrUSP</strong> è un'organizzazione no-profit il cui obiettivo è migliorare l'ecosistema italiano di sviluppo web.<br>
-    Organizziamo eventi e workshop di alta qualità per developer, e promuoviamo la creazione di User Group locali (PUG), aiutandoli nelle loro attività.</p>
-    <p><h4>La diversità e l'inclusione sono sempre state al centro delle nostre attività.</h4></p>
-    <p>Applichiamo un codice di condotta da molti anni e abbiamo programmi di borse di studio (scholarships) per ciascuna delle nostre conferenze.</p>"
+    "GrUSP è un'organizzazione no-profit il cui obiettivo è migliorare l'ecosistema italiano di sviluppo web. <br>
+    Organizziamo eventi e workshop di alta qualità per developer, e promuoviamo la creazione di User Group locali (PUG), aiutandoli nelle loro attività.<br>
+    La diversità e l'inclusione sono sempre state al centro delle nostre attività.
+    Applichiamo un codice di condotta da molti anni e abbiamo programmi di borse di studio (scholarships) per ciascuna delle nostre conferenze."
 more:
-  title: "laravelday"
+  title: "<font color=black>Le conferenze GrUSP"
   content_1:
-    "<p>Quest'anno torniamo nuovamente <strong>in presenza dall'hotel San Marco di Verona e online</strong> per vivere una giornata dedicata a Laravel. Ti proponiamo un laravelday ricco di curiosità che riguardano tanto il framework quanto il suo uso a livello professionale.</p><p>Speaker con esperienza e talento condivideranno con te le loro giornate, le loro esperienze e i trucchi del mestiere e avrai occasione di confrontarti con loro durante i momenti di networking.</p>"
-  content_2:
+    "<p>Organizziamo numerose conferenze tecnologiche in Italia, coinvolgendo professionisti italiani e internazionali. Gli argomenti trattati spaziano dai linguaggi e framework di sviluppo web (Angular, React, Symfony, PHP, JavaScript, Ruby, ecc.) alle tecnologie DevOps e di sicurezza, fino a temi legati al web design (UX e CSS). Organizziamo anche il Product Management Day, la prima conferenza italiana dedicata al product management.<br>&nbsp;<br>
+    Si tratta di eventi unici, che combinano workshop, interventi tecnici e importanti opportunità di networking. Durante le nostre conferenze, i partecipanti hanno la possibilità di entrare in contatto con i migliori professionisti, scambiare idee innovative e scoprire le ultime tendenze del settore. Ogni anno, più di 6.000 persone partecipano ai nostri eventi!</font></p>
+    <p>Questa è la lista delle nostre conferenze:<br>
+    <li><a href='https://dxday.it/' target=_blank><font color=black>dxday - the developer experience conference</font></a>
+    <li><a href='https://incontrodevops.it/' target=_blank><font color=black>Incontro DevOps Italia</font></a>
+    <li><a href='https://cssday.it/' target=_blank><font color=black>cssday</font></a>
+    <li><a href='https://jsday.it/' target=_blank><font color=black>jsday</font></a>
+    <li><a href='https://phpday.it/' target=_blank><font color=black>phpday</font></a>
+    <li><a href='https://rubyday.it/' target=_blank><font color=black>rubyday</font></a>
+    <li><a href='https://uxday.it/' target=_blank><font color=black>uxday</font></a>
+    <li><a href='https://containerday.it/' target=_blank><font color=black>containerday</font></a>
+    <li><a href='https://devsecopsday.it/' target=_blank><font color=black>devsecopsday</font></a>
+    <!--li><a href='https://bettersoftware.it/' target=_blank><font color=black>Better Software</font></a-->
+    <li><a href='https://reactjsday.it/' target=_blank><font color=black>reactjsday</font></a>
+    <li><a href='https://laravelday.it/' target=_blank><font color=black>laravelday</font></a>
+    <li><a href='https://angularday.it/' target=_blank><font color=black>angularday</font></a>
+    <li><a href='https://www.productmanagementday.com/' target=_blank><font color=black>Product Management Day</font></a>
+    </font></p>
+    Inoltre, <b>siamo costantemente alla ricerca di nuovi speaker</b>! Consultate la nostra pagina <a href='https://www.grusp.org/en/speakers/' target=_blank><font color=black>[Call for Papers]</font></a> e candidatevi per diventare uno dei nostri prossimi relatori!</font>"
 past_edition:
-  title: "Guarda il laravelday 2023!"
-  video_url: "https://www.youtube.com/watch?v=1znFqi35E8s&list=PLWK9j6ps_unkolXsZjbWBW0q-nNH8owrf"
-  video_caption: "Guarda il laravelday 2023"
+  title: "Guarda le passate edizioni della conferenza"
+  video_url: "https://www.youtube.com/embed/videoseries?list=PLWK9j6ps_unkolXsZjbWBW0q-nNH8owrf"
+  video_caption: "Guarda i video del 2023 (i video del 2024 saranno disponibili a Maggio 2025)"
 team:
   title: "Il team"
-  intro: ""
+  intro: "Siamo un team dinamico di persone appassionate, che fondono diverse competenze in ambito tecnologico, creativo e di community management. Questa combinazione unica di competenze ci permette di portare avanti la nostra missione con entusiasmo!"
   members:
     member_1:
       name: "Matteo Beccati"
@@ -54,10 +71,6 @@ team:
       name: "Daniel Londero"
       role: "GrUSP Board Member"
       pic_filename: "daniel_yellow.jpg"
-    member_9:
-      name: "Francesco Mancin"
-      role: "Regia e Video"
-      pic_filename: "francesco_yellow.jpg"
     member_10:
       name: "Giulia Tosato"
       role: "Event Manager"

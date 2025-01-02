@@ -2,8 +2,8 @@ intro:
   main_title: "Call for paper"
   date_intro: "La call for paper sarà aperta fino al "
   # NB la data è definita in `defaults`
-  content_1: "<p>Hai un'eccezione sulla tua applicazione Laravel che non ti ha fatto dormire la notte? Vuoi condividere delle best practice che adottate nella tua azienda? Passi il tempo nei canali social di Laravel a risolvere dubbi e dare supporto?<br>Perché allora non ci proponi un tuo talk?</p><p>Contribuisci attivamente a rendere <strong>laravel</strong>day una giornata interessante e formativa. Nelle edizioni passate abbiamo proposto talk legati alle curiosità del framework e al suo ecosistema ma anche casi di studio sull'integrazione di Laravel con strumenti tipici sia delle grandi aziende che di developer freelance.</p><p>Se è la tua prima volta di fronte ad un pubblico non farti intimidire: siamo qui per seguirti e per metterti a tuo agio dalla selezione fino al giorno del talk.</p>"
-  content_2: "<p>Hai tempo fino al <strong>10 Settembre 2023 per compilare la CFP</strong> di <strong>laravel</strong>day!<br>Ricorda di aggiungere alla tua rubrica la mail <strong>laravelday@grusp.org</strong> per non perderti l'esito della tua candidatura.</p>"
+  content_1: "<p>Hai un'eccezione sulla tua applicazione Laravel che non ti ha fatto dormire la notte? Vuoi condividere delle best practice che adottate nella tua azienda? Passi il tempo nei canali social di Laravel a risolvere dubbi e dare supporto?<br>Perché allora non ci proponi un tuo talk?</p><p>Contribuisci attivamente a rendere <strong>laravelday</strong> una giornata interessante e formativa. Nelle edizioni passate abbiamo proposto talk legati alle curiosità del framework e al suo ecosistema ma anche casi di studio sull'integrazione di Laravel con strumenti tipici sia delle grandi aziende che di developer freelance.</p><p>Se è la tua prima volta di fronte ad un pubblico non farti intimidire: siamo qui per seguirti e per metterti a tuo agio dalla selezione fino al giorno del talk.</p>"
+  content_2: ""
 more_info:
   title: "Cosa ti offriamo se il tuo talk viene selezionato"
   description_1: "<ul><li>* Accesso alla conferenza, compresi coffe break e pranzo;</li><li>* Cena speaker, la sera prima;</li><li>* Una notte in hotel, oppure in alternativa una Bronze sponsorship gratuita per la tua azienda (o uno sconto dello stesso valore in caso di acquisto di una sponsorship di livello maggiore).</li></ul>"
@@ -12,7 +12,7 @@ contact:
   email_intro: "Per qualsiasi informazione, scrivi a "
   help_intro: "Se hai bisogno di suggerimenti per capire come scrivere un abstract guarda "
   help_url: "https://www.grusp.org/speaker_/candidati"
-cfp_register_url: "http://grusp.org/CFPlaravelday"
+cfp_register_url: "https://docs.google.com/forms/d/e/1FAIpQLSdrkWXDoLv7DeAAStM96TJ7lh8M52DHUQDBhzZuT_0mmQ-fGg/viewform?usp=header"
 # address_aria_label: "hotel address"
 # email_aria_label: "hotel email"
 # phone_aria_label: "hotel phone"
