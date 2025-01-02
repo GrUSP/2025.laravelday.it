@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://2025.laravelday.it/welcome/about.html</loc>
+    
+    <lastmod>2025-01-02</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://2025.laravelday.it/workshop/workshop_2.html</loc>
     
     <lastmod>2025-01-02</lastmod>
@@ -9,28 +16,21 @@
   </url>
   
   <url>
-    <loc>https://2025.laravelday.it/workshop/index.html</loc>
+    <loc>https://2025.laravelday.it/sponsor/index.html</loc>
     
     <lastmod>2025-01-02</lastmod>
     
   </url>
   
   <url>
-    <loc>https://2025.laravelday.it/workshop/font_variabili.html</loc>
+    <loc>https://2025.laravelday.it/schedule/index.html</loc>
     
     <lastmod>2025-01-02</lastmod>
     
   </url>
   
   <url>
-    <loc>https://2025.laravelday.it/welcome/scholarships.html</loc>
-    
-    <lastmod>2025-01-02</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://2025.laravelday.it/welcome/where.html</loc>
+    <loc>https://2025.laravelday.it/talks_speakers/index.html</loc>
     
     <lastmod>2025-01-02</lastmod>
     
@@ -51,28 +51,14 @@
   </url>
   
   <url>
-    <loc>https://2025.laravelday.it/welcome/about.html</loc>
+    <loc>https://2025.laravelday.it/workshop/index.html</loc>
     
     <lastmod>2025-01-02</lastmod>
     
   </url>
   
   <url>
-    <loc>https://2025.laravelday.it/sponsor/index.html</loc>
-    
-    <lastmod>2025-01-02</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://2025.laravelday.it/welcome/coc.html</loc>
-    
-    <lastmod>2025-01-02</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://2025.laravelday.it/talks_speakers/index.html</loc>
+    <loc>https://2025.laravelday.it/workshop/font_variabili.html</loc>
     
     <lastmod>2025-01-02</lastmod>
     
@@ -93,14 +79,21 @@
   </url>
   
   <url>
-    <loc>https://2025.laravelday.it/schedule/index.html</loc>
+    <loc>https://2025.laravelday.it/welcome/coc.html</loc>
     
     <lastmod>2025-01-02</lastmod>
     
   </url>
   
   <url>
-    <loc>https://2025.laravelday.it/2019/08/19/test/</loc>
+    <loc>https://2025.laravelday.it/welcome/scholarships.html</loc>
+    
+    <lastmod>2025-01-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://2025.laravelday.it/welcome/where.html</loc>
     
     <lastmod>2025-01-02</lastmod>
     
@@ -108,6 +101,13 @@
   
   <url>
     <loc>https://2025.laravelday.it/404.html</loc>
+    
+    <lastmod>2025-01-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://2025.laravelday.it/2019/08/19/test/</loc>
     
     <lastmod>2025-01-02</lastmod>
     
