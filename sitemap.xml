@@ -9,7 +9,14 @@
   </url>
   
   <url>
-    <loc>https://2025.laravelday.it/welcome/about.html</loc>
+    <loc>https://2025.laravelday.it/workshop/font_variabili.html</loc>
+    
+    <lastmod>2025-02-24</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://2025.laravelday.it/schedule/index.html</loc>
     
     <lastmod>2025-02-24</lastmod>
     
@@ -30,7 +37,7 @@
   </url>
   
   <url>
-    <loc>https://2025.laravelday.it/schedule/index.html</loc>
+    <loc>https://2025.laravelday.it/tickets/index.html</loc>
     
     <lastmod>2025-02-24</lastmod>
     
@@ -44,13 +51,6 @@
   </url>
   
   <url>
-    <loc>https://2025.laravelday.it/tickets/index.html</loc>
-    
-    <lastmod>2025-02-24</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://2025.laravelday.it/workshop/index.html</loc>
     
     <lastmod>2025-02-24</lastmod>
@@ -58,7 +58,7 @@
   </url>
   
   <url>
-    <loc>https://2025.laravelday.it/welcome/where.html</loc>
+    <loc>https://2025.laravelday.it/welcome/coc.html</loc>
     
     <lastmod>2025-02-24</lastmod>
     
@@ -86,14 +86,14 @@
   </url>
   
   <url>
-    <loc>https://2025.laravelday.it/welcome/coc.html</loc>
+    <loc>https://2025.laravelday.it/welcome/where.html</loc>
     
     <lastmod>2025-02-24</lastmod>
     
   </url>
   
   <url>
-    <loc>https://2025.laravelday.it/workshop/font_variabili.html</loc>
+    <loc>https://2025.laravelday.it/welcome/about.html</loc>
     
     <lastmod>2025-02-24</lastmod>
     
